@@ -15,9 +15,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a junior Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZjNyY2ptdHA4cnc3MmExeTB0OGc0a2lrYnZvZmFlejl0bGk0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50">
-- :mortar_board: I have a bachelor's degree in software Engineering (Penza State University)
-- :telescope: I am looking for a job as a frontend developer.
+I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZjNyY2ptdHA4cnc3MmExeTB0OGc0a2lrYnZvZmFlejl0bGk0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50">
 
 ---
 
